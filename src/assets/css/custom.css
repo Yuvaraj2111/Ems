@@ -1,0 +1,652 @@
+b{
+  font-size:large ;
+}
+.cell-red {
+    background-color: #dd4b39 !important;
+    color: #ffffff !important;
+  }
+  .cell-yellow {
+    background-color: #f39c12 !important;
+    color: #ffffff !important;
+  }
+  .cell-aqua {
+    background-color: #00c0ef !important;
+    color: #ffffff !important;
+  }
+  .cell-blue {
+    background-color: #0073b7 !important;
+    color: #ffffff !important;
+  }
+  .cell-black {
+    background-color: #111111 !important;
+    color: #ffffff !important;
+  }
+  .cell-light-blue {
+    background-color: #3c8dbc !important;
+    color: #ffffff !important;
+  }
+  .cell-green {
+    background-color: #00a65a !important;
+    color: #ffffff !important;
+  }
+  .cell-gray {
+    background-color: #d2d6de !important;
+    color: #ffffff !important;
+  }
+  .cell-navy {
+    background-color: #001f3f !important;
+    color: #ffffff !important;
+  }
+  .cell-teal {
+    background-color: #39cccc !important;
+    color: #ffffff !important;
+  }
+  .cell-olive {
+    background-color: #3d9970 !important;
+    color: #ffffff !important;
+  }
+  .cell-lime {
+    background-color: #01ff70 !important;
+    color: #ffffff !important;
+  }
+  .cell-orange {
+    background-color: #ff851b !important;
+    color: #ffffff !important;
+  }
+  .cell-fuchsia {
+    background-color: #f012be !important;
+    color: #ffffff !important;
+  }
+  .cell-purple {
+    background-color: #605ca8 !important;
+    color: #ffffff !important;
+  }
+  .cell-maroon {
+    background-color: #d81b60 !important;
+    color: #ffffff !important;
+  }
+  .cell-muted {
+    background-color: #999 !important;
+    color: #ffffff !important;
+  }
+  .cell-tomato {
+    background-color: #FF6347 !important;
+    color: #ffffff !important;
+  }
+  .cell-1 {
+    background-color: #ff2200 !important;
+    color: #ffffff !important;
+  }
+  .cell-2 {
+    background-color: #ff9180 !important;
+    color: #ffffff !important;
+  }
+  .cell-3 {
+    background-color: #594643 !important;
+    color: #ffffff !important;
+  }
+  .cell-4 {
+    background-color: #a62c00 !important;
+    color: #ffffff !important;
+  }
+  .cell-5 {
+    background-color: #331c0d !important;
+    color: #ffffff !important;
+  }
+  .cell-6 {
+    background-color: #cc6d00 !important;
+    color: #ffffff !important;
+  }
+  .cell-7 {
+    background-color: #663600 !important;
+    color: #ffffff !important;
+  }
+  .cell-8 {
+    background-color: #a67c29 !important;
+    color: #ffffff !important;
+  }
+  .cell-9 {
+    background-color: #ffeabf !important;
+    color: #ffffff !important;
+  }
+  .cell-10 {
+    background-color: #ffd940 !important;
+    color: #ffffff !important;
+  }
+  .cell-11 {
+    background-color: #4c4700 !important;
+    color: #ffffff !important;
+  }
+  .cell-12 {
+    background-color: #7d8060 !important;
+    color: #ffffff !important;
+  }
+  .cell-13 {
+    background-color: #cef23d !important;
+    color: #ffffff !important;
+  }
+  .cell-14 {
+    background-color: #eaffbf !important;
+    color: #ffffff !important;
+  }
+  .cell-15 {
+    background-color: #468020 !important;
+    color: #ffffff !important;
+  }
+  .cell-16 {
+    background-color: #00e600 !important;
+    color: #ffffff !important;
+  }
+  .cell-17 {
+    background-color: #00d900 !important;
+    color: #ffffff !important;
+  }
+  .cell-18 {
+    background-color: #00b300 !important;
+    color: #ffffff !important;
+  }
+  .cell-19 {
+    background-color: #00330e !important;
+    color: #ffffff !important;
+  }
+  .cell-20 {
+    background-color: #66cc8f !important;
+    color: #ffffff !important;
+  }
+  .cell-21 {
+    background-color: #00735c !important;
+    color: #ffffff !important;
+  }
+  .cell-22 {
+    background-color: #80fff6 !important;
+    color: #ffffff !important;
+  }
+  .cell-23 {
+    background-color: #30403f !important;
+    color: #ffffff !important;
+  }
+  .cell-24 {
+    background-color: #8fbcbf !important;
+    color: #ffffff !important;
+  }
+  .cell-25 {
+    background-color: #00aaff !important;
+    color: #ffffff !important;
+  }
+  .cell-26 {
+    background-color: #6cb5d9 !important;
+    color: #ffffff !important;
+  }
+  .cell-27 {
+    background-color: #396073 !important;
+    color: #ffffff !important;
+  }
+  .cell-28 {
+    background-color: #002240 !important;
+    color: #ffffff !important;
+  }
+  .cell-29 {
+    background-color: #0066ff !important;
+    color: #ffffff !important;
+  }
+  .cell-30 {
+    background-color: #265499 !important;
+    color: #ffffff !important;
+  }
+  .cell-31 {
+    background-color: #000a4d !important;
+    color: #ffffff !important;
+  }
+  .cell-32 {
+    background-color: #2929a6 !important;
+    color: #ffffff !important;
+  }
+  .cell-33 {
+    background-color: #2000f2 !important;
+    color: #ffffff !important;
+  }
+  .cell-34 {
+    background-color: #c480ff !important;
+    color: #ffffff !important;
+  }
+  .cell-35 {
+    background-color: #553366 !important;
+    color: #ffffff !important;
+  }
+  .cell-36 {
+    background-color: #c200f2 !important;
+    color: #ffffff !important;
+  }
+  .cell-37 {
+    background-color: #aa86b3 !important;
+    color: #ffffff !important;
+  }
+  .cell-38 {
+    background-color: #8c2385 !important;
+    color: #ffffff !important;
+  }
+  .cell-39 {
+    background-color: #ff00aa !important;
+    color: #ffffff !important;
+  }
+  .cell-40 {
+    background-color: #400022 !important;
+    color: #ffffff !important;
+  }
+  .cell-41 {
+    background-color: #99003d !important;
+    color: #ffffff !important;
+  }
+  .cell-42 {
+    background-color: #ff80b3 !important;
+    color: #ffffff !important;
+  }
+  .cell-43 {
+    background-color: #f20041 !important;
+    color: #ffffff !important;
+  }
+  .cell-44 {
+    background-color: #66000e !important;
+    color: #ffffff !important;
+  }
+  .cell-45 {
+    background-color: #733941 !important;
+    color: #ffffff !important;
+  }
+  .cell-46 {
+    background-color: #a67c82 !important;
+    color: #ffffff !important;
+  }
+  .text-1 {
+    color: #ff2200 !important;
+  }
+  .text-2 {
+    color: #ff9180 !important;
+  }
+  .text-3 {
+    color: #594643 !important;
+  }
+  .text-4 {
+    color: #a62c00 !important;
+  }
+  .text-5 {
+    color: #331c0d !important;
+  }
+  .text-6 {
+    color: #cc6d00 !important;
+  }
+  .text-7 {
+    color: #663600 !important;
+  }
+  .text-8 {
+    color: #a67c29 !important;
+  }
+  .text-9 {
+    color: #ffeabf !important;
+  }
+  .text-10 {
+    color: #ffd940 !important;
+  }
+  .text-11 {
+    color: #4c4700 !important;
+  }
+  .text-12 {
+    color: #7d8060 !important;
+  }
+  .text-13 {
+    color: #cef23d !important;
+  }
+  .text-14 {
+    color: #eaffbf !important;
+  }
+  .text-15 {
+    color: #468020 !important;
+  }
+  .text-16 {
+    color: #00e600 !important;
+  }
+  .text-17 {
+    color: #00d900 !important;
+  }
+  .text-18 {
+    color: #00b300 !important;
+  }
+  .text-19 {
+    color: #00330e !important;
+  }
+  .text-20 {
+    color: #66cc8f !important;
+  }
+  .text-21 {
+    color: #00735c !important;
+  }
+  .text-22 {
+    color: #80fff6 !important;
+  }
+  .text-23 {
+    color: #30403f !important;
+  }
+  .text-24 {
+    color: #8fbcbf !important;
+  }
+  .text-25 {
+    color: #00aaff !important;
+  }
+  .text-26 {
+    color: #6cb5d9 !important;
+  }
+  .text-27 {
+    color: #396073 !important;
+  }
+  .text-28 {
+    color: #002240 !important;
+  }
+  .text-29 {
+    color: #0066ff !important;
+  }
+  .text-30 {
+    color: #265499 !important;
+  }
+  .text-31 {
+    color: #000a4d !important;
+  }
+  .text-32 {
+    color: #2929a6 !important;
+  }
+  .text-33 {
+    color: #2000f2 !important;
+  }
+  .text-34 {
+    color: #c480ff !important;
+  }
+  .text-35 {
+    color: #553366 !important;
+  }
+  .text-36 {
+    color: #c200f2 !important;
+  }
+  .text-37 {
+    color: #aa86b3 !important;
+  }
+  .text-38 {
+    color: #8c2385 !important;
+  }
+  .text-39 {
+    color: #ff00aa !important;
+  }
+  .text-40 {
+    color: #400022 !important;
+  }
+  .text-41 {
+    color: #99003d !important;
+  }
+  .text-42 {
+    color: #ff80b3 !important;
+  }
+  .text-43 {
+    color: #f20041 !important;
+  }
+  .text-44 {
+    color: #66000e !important;
+  }
+  .text-45 {
+    color: #733941 !important;
+  }
+  .text-46 {
+    color: #a67c82 !important;
+  }
+  .text-white {
+    color: #ffffff !important;
+  }
+  
+  .slot-code {
+    padding: 5px 10px;
+    font-weight: bold;
+    margin-bottom: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;  
+  }
+  
+  .slot-code:hover {
+    box-shadow: inset 0 0 90px rgba(0, 0, 0, 0.2);
+  }
+  
+  .slot-color {
+    font-size: 2em;
+  }
+  
+  .table th, td {
+    text-align: center;
+    vertical-align: middle !important;
+    /*min-width: 50px;
+    max-width: 250px;*/
+  }
+  
+  .he {
+    min-height: 150px;
+  }
+  
+  .text-bold {
+    font-weight: bold;
+  }
+  
+  .space {
+    height: 0px;
+  }
+  
+  .scroll {
+    min-height: 400px;
+    max-height: 400px;
+    overflow-y: scroll;
+    margin-bottom: 15px;
+  }
+  
+  .scroll-head {
+    min-height: 400px;
+    max-height: 400px;
+    overflow-y: scroll;
+    margin-bottom: 15px;
+  }
+  
+  .scroll-modal {
+    min-height: 150px;
+    max-height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 15px;
+  }
+  
+  .left-pad {
+    padding-left: 10px !important;
+  }
+  
+  .divider {
+    height: 2px;
+    width: 100%;
+    display: block; /* for use on default inline elements like span */
+    margin: 9px 0;
+    overflow: hidden;
+    /*background-color: #e5e5e5;*/
+    background-color: #3c8dbc;
+  }
+  
+  .ulx ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+   
+  .ulx li {
+    font: 90 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc;
+  }
+   
+  .ulx li:last-child {
+    border: none;
+  }
+   
+  .ulx li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    width: 200px;
+   
+    -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+    transition: font-size 0.3s ease, background-color 0.3s ease;
+  }
+   
+  .ulx li a:hover {
+    font-size: 30px;
+    background: #f6f6f6;
+  }
+  
+  .crossed {
+    background:#ADD8E6 url(http://localhost/cbcs/assests/img/pattern.png) repeat top left;
+  }
+  
+  
+  /*
+  Force table width to 100%
+  */
+  table.table-fixedheader {
+    width: 100%;
+  }
+  /*
+  Set table elements to block mode.  (Normally they are inline).
+  This allows a responsive table, such as one where columns can be stacked
+  if the display is narrow.
+  */
+   table.table-fixedheader, table.table-fixedheader>thead, table.table-fixedheader>tbody, table.table-fixedheader>thead>tr, table.table-fixedheader>tbody>tr, table.table-fixedheader>thead>tr>th, table.table-fixedheader>tbody>td {
+      display: block;
+  }
+  table.table-fixedheader>thead>tr:after, table.table-fixedheader>tbody>tr:after {
+      content:' ';
+      display: block;
+      visibility: hidden;
+      clear: both;
+  }
+  /*
+  When scrolling the table, actually it is only the tbody portion of the
+  table that scrolls (not the entire table: we want the thead to remain
+  fixed).  We must specify an explicit height for the tbody.  We include
+  100px as a default, but it can be overridden elsewhere.
+  
+  Also, we force the scrollbar to always be displayed so that the usable
+  width for the table contents doesn't change (such as becoming narrower
+  when a scrollbar is visible and wider when it is not).
+  */
+   table.table-fixedheader>tbody {
+      overflow-y: scroll;
+      min-height: 200px;
+      max-height: 630px;
+      
+  }
+  /*
+  We really don't want to scroll the thead contents, but we want to force
+  a scrollbar to be displayed anyway so that the usable width of the thead
+  will exactly match the tbody.
+  */
+   table.table-fixedheader>thead {
+      overflow-y: scroll;    
+  }
+  /*
+  For browsers that support it (webkit), we set the background color of
+  the unneeded scrollbar in the thead to make it invisible.  (Setting
+  visiblity: hidden defeats the purpose, as this alters the usable width
+  of the thead.)
+  */
+   table.table-fixedheader>thead::-webkit-scrollbar {
+      background-color: inherit;
+  }
+  
+  
+  table.table-fixedheader>thead>tr>th:after, table.table-fixedheader>tbody>tr>td:after {
+      content:' ';
+      display: table-cell;
+      visibility: hidden;
+      clear: both;
+  }
+  
+  /*
+  We want to set <th> and <td> elements to float left.
+  We also must explicitly set the width for each column (both for the <th>
+  and the <td>).  We set to 20% here a default placeholder, but it can be
+  overridden elsewhere.
+  */
+  
+   table.table-fixedheader>thead tr th, table.table-fixedheader>tbody tr td {
+      float: left;    
+      word-wrap:break-word;     
+  }
+  
+  
+  
+  .post-block:before,
+  .post-block:after {
+    content: " ";
+    display: table;
+  }
+  .post-block:after {
+    clear: both;
+  }
+  .post-block .username,
+  .post-block .description,
+  .post-block .comment {
+    display: block;
+  }
+  .post-block .username {
+    font-size: 1.6em;
+    font-weight: 600;
+  }
+  .post-block .description {
+    color: #999;
+    font-size: 1.5em;
+  }
+  .post-block.post-block-sm .username {
+    font-size: 1.4em;
+  }
+  .img-sm,
+  .box-comments .box-comment img,
+  .post-block.post-block-sm img {
+    width: 30px!important;
+    height: 30px!important;
+  }
+  
+  .post-block {
+    margin-bottom: 15px;
+  }
+  
+  .gi-2x{font-size: 2em;}
+  .gi-3x{font-size: 3em;}
+  .gi-4x{font-size: 4em;}
+  .gi-5x{font-size: 5em;}
+  
+  .table-split {
+    border-collapse:separate; 
+    border-spacing: 0px 7px;
+  }
+  
+  .form-group2 {
+    margin-bottom: 0px !important;
+  }
+  
+  .cso-btn {
+    margin: 2px !important;
+    width: 80px;
+  }
+  
+  .min-table th, td {
+    min-width: 50px;
+    min-height: 25px;
+  }
+  .regu-div{
+      padding-left: 1.8%;
+      padding-right: 2%;
+      padding-bottom: 1%;
+      text-align: center;
+      font-weight: bold;
+      font-size: xx-large;
+  }

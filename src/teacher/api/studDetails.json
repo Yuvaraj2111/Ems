@@ -1,0 +1,29 @@
+[{
+    "reg": "22",
+    "name": "a",
+    "branch": "a",
+    "sem": "1",
+    "regu": "2019",
+    "campus": "a"
+},{
+    "reg": "23",
+    "name": "s",
+    "branch": "s",
+    "sem": "2",
+    "regu": "2018",
+    "campus": "s"
+},{
+    "reg": "24",
+    "name": "d",
+    "branch": "d",
+    "sem": "3",
+    "regu": "2019",
+    "campus": "d"
+},{
+    "reg": "25",
+    "name": "f",
+    "branch": "f",
+    "sem": "3",
+    "regu": "2018",
+    "campus": "f"
+}]

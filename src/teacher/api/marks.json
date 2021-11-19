@@ -1,0 +1,32 @@
+[
+    {
+        "reg":"22",
+        "sem":"1",
+        "courses":[
+            {"code":"CA1","subName":"sub1","marks":"","grade":""},
+            {"code":"CA1","subName":"sub1","marks":"","grade":""},
+            {"code":"CA1","subName":"sub1","marks":"","grade":""},
+            {"code":"CA1","subName":"sub1","marks":"","grade":""}
+        ]
+    },
+    {
+        "reg":"23",
+        "sem":"2",
+        "courses":[
+            {"code":"CA2","subName":"sub2","marks":"","grade":""},
+            {"code":"CA2","subName":"sub2","marks":"","grade":""},
+            {"code":"CA2","subName":"sub2","marks":"","grade":""},
+            {"code":"CA2","subName":"sub2","marks":"","grade":""}
+        ]
+    },
+    {
+        "reg":"24",
+        "sem":"3",
+        "courses":[
+            {"code":"CA3","subName":"sub3","marks":"","grade":""},
+            {"code":"CA3","subName":"sub3","marks":"","grade":""},
+            {"code":"CA3","subName":"sub3","marks":"","grade":""},
+            {"code":"CA3","subName":"sub3","marks":"","grade":""}
+        ]
+    }
+]
